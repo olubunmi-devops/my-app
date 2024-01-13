@@ -14,7 +14,7 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 env:
-  APP_VERSION: v2.0
+  APP_VERSION: da32679267168a585581c4526d1f4b9394ac880c
 serviceAccount:
   # Specifies whether a service account should be created
   create: true
